@@ -1,0 +1,5 @@
+Version 1.0
+Created with C# Class Library Template
+
+Version 1.1
+Added new template for C# NUnit projects
